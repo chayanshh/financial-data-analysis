@@ -1,0 +1,18 @@
+Geo_ID,Region,Country,Currency
+100,Europe,France,EUR
+101,Europe,Germany,EUR
+102,North America,Mexico,MXN
+103,North America,United States,USD
+104,North America,Canada,CAD
+105,Asia-Pacific,Singapore,SGD
+106,Middle East,Saudi Arabia,SAR
+107,Europe,United Kingdom,GBP
+108,Europe,Spain,EUR
+109,Asia-Pacific,Australia,AUD
+110,Asia-Pacific,India,INR
+111,Europe,Italy,EUR
+112,Asia-Pacific,Japan,JPY
+113,Latin America,Colombia,COP
+114,Middle East,United Arab Emirates,AED
+115,Latin America,Argentina,ARS
+116,Latin America,Brazil,BRL

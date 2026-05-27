@@ -1,0 +1,96 @@
+Merchant_ID,Merchant Name,Category,Sub-Category
+1000,Rocket Mortgage LLC,Housing,Mortgage
+1001,Chase Mortgage,Housing,Mortgage
+1002,Greystar Management,Housing,Rent
+1003,Bank of America Home,Housing,Mortgage
+1004,Equity Residential,Housing,Rent
+1005,Wells Fargo Home Loans,Housing,Mortgage
+1006,Avalon Communities,Housing,Rent
+1007,Private Landlord Zelle,Housing,Rent
+1008,StubHub Inc.,Entertainment,Concerts
+1009,PG&E Corp,Utilities,Electricity
+1010,Duke Energy,Utilities,Electricity
+1011,Firestone Complete Auto,Transportation,Auto Maintenance
+1012,AutoZone,Transportation,Auto Maintenance
+1013,CenterPoint Energy,Utilities,Gas
+1014,Uber Trip,Transportation,Rideshare
+1015,Barnes & Noble,Shopping,Books
+1016,REI Co-op,Shopping,Sporting Goods
+1017,Apple Store,Shopping,Electronics
+1018,MTA Subway/Bus,Transportation,Public Transit
+1019,Chevron,Transportation,Fuel
+1020,Dick's Sporting Goods,Shopping,Sporting Goods
+1021,HealthCare Corp,Income,Salary
+1022,Shell Oil,Transportation,Fuel
+1023,H&M,Shopping,Clothing
+1024,Best Buy,Shopping,Electronics
+1025,London Underground,Transportation,Public Transit
+1026,Zara,Shopping,Clothing
+1027,Google LLC,Income,Salary
+1028,Amazon Books,Shopping,Books
+1029,State Dept of Revenue,Income,Tax Refund
+1030,Amazon.com Electronics,Shopping,Electronics
+1031,Amtrak Train Tickets,Transportation,Public Transit
+1032,SoCalGas,Utilities,Gas
+1033,Jiffy Lube,Transportation,Auto Maintenance
+1034,National Grid,Utilities,Gas
+1035,Municipal Utilities Board,Utilities,Water
+1036,Fidelity Brokerage,Income,Dividends
+1037,Upwork Escrow,Income,Freelance
+1038,ExxonMobil,Transportation,Fuel
+1039,Local Independent Bookstore,Shopping,Books
+1040,Consolidated Edison,Utilities,Electricity
+1041,Academy Sports,Shopping,Sporting Goods
+1042,Spectrum Broadband,Utilities,Internet
+1043,AT&T Internet,Utilities,Internet
+1044,Nordstrom,Shopping,Clothing
+1045,Lowe's Home Improvement,Housing,Home Maintenance
+1046,Consulting Stipend,Income,Freelance
+1047,Meta Platforms,Income,Salary
+1048,Capital One High-Yield,Income,Interest
+1049,Amazon Corporate,Income,Salary
+1050,Ally Bank Interest,Income,Interest
+1051,SP+ Parking,Transportation,Parking
+1052,Lyft Ride,Transportation,Rideshare
+1053,Amazon Prime Video,Entertainment,Subscriptions
+1054,Spotify Premium,Entertainment,Subscriptions
+1055,Regal Cinemas,Entertainment,Movies
+1056,Hulu LLC,Entertainment,Subscriptions
+1057,Florida Power & Light,Utilities,Electricity
+1058,Strikingly Media,Income,Freelance
+1059,Nintendo eShop,Entertainment,Gaming
+1060,Ticketmaster,Entertainment,Concerts
+1061,City Treasurer Office,Housing,Property Tax
+1062,Waste Management Inc.,Utilities,Trash
+1063,Marcus by Goldman Sachs,Income,Interest
+1064,CTA Transit,Transportation,Public Transit
+1065,Live Nation,Entertainment,Concerts
+1066,Macy's,Shopping,Clothing
+1067,Disney+,Entertainment,Subscriptions
+1068,Deloitte Consulting,Income,Salary
+1069,Steam Games,Entertainment,Gaming
+1070,PlayStation Network,Entertainment,Gaming
+1071,The Home Depot,Housing,Home Maintenance
+1072,Fandango,Entertainment,Movies
+1073,7-Eleven Fuel,Transportation,Fuel
+1074,IRS Tax Refund,Income,Tax Refund
+1075,City Water District,Utilities,Water
+1076,Local Dealership Service,Transportation,Auto Maintenance
+1077,Nike Store,Shopping,Clothing
+1078,Charles Schwab Div,Income,Dividends
+1079,Republic Services,Utilities,Trash
+1080,Verizon Fios,Utilities,Internet
+1081,County Tax Collector,Housing,Property Tax
+1082,AMC Theatres,Entertainment,Movies
+1083,Comcast Xfinity,Utilities,Internet
+1084,Xbox Live,Entertainment,Gaming
+1085,City Parking Meter,Transportation,Parking
+1086,Epic Games Store,Entertainment,Gaming
+1087,Local Plumbing Services,Housing,Home Maintenance
+1088,Vanguard Clearing,Income,Dividends
+1089,ParkWhiz,Transportation,Parking
+1090,Fiverr International,Income,Freelance
+1091,BP Amoco,Transportation,Fuel
+1092,Ace Hardware,Housing,Home Maintenance
+1093,TJ Maxx,Shopping,Clothing
+1094,Netflix Inc.,Entertainment,Subscriptions
